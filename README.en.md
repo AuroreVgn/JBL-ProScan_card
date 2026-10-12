@@ -117,7 +117,7 @@ according to the thresholds below.
 
 ## 📸 Previews
 
-| Light mode | Dark mode |
+| Light mode | Dark and compatct mode|
 | :---: | :---: |
 | ![JBL ProScan Card — light mode](assets/light.png) | ![JBL ProScan Card — dark mode](assets/dark.png) |
 
