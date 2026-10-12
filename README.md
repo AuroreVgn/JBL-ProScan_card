@@ -110,15 +110,11 @@ Chaque mesure et chaque point du graphique historique reçoivent individuellemen
 | **CO₂** | Information uniquement | — | — |
 | **Chlore** | 0 ≤ Chlore ≤ 0,8 mg/L | — | Chlore > 0,8 mg/L |
 
-## 📸 Captures d'écran
+## 📸 Aperçus
 
-### Mode clair
-
-<img width="400" alt="Carte JBL ProScan en mode clair" src="assets/light.png" />
-
-### Mode sombre
-
-<img width="400" alt="Carte JBL ProScan en mode sombre" src="assets/dark.png" />
+| Mode clair | Mode sombre |
+| :---: | :---: |
+| ![JBL ProScan Card — mode clair](assets/light.png) | ![JBL ProScan Card — mode sombre](assets/dark.png) |
 
 ## 🎨 Éditeur visuel
 
