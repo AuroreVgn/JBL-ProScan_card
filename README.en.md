@@ -115,15 +115,11 @@ according to the thresholds below.
 | **CO₂** | Information only | — | — |
 | **Chlorine** | 0 ≤ Chlorine ≤ 0.8 mg/L | — | Chlorine > 0.8 mg/L |
 
-## 📸 Screenshots
+## 📸 Previews
 
-### Light mode
-
-<img width="800" alt="JBL ProScan Card — light mode" src="assets/light.png" />
-
-### Dark mode
-
-<img width="800" alt="JBL ProScan Card — dark mode" src="assets/dark.png" />
+| Light mode | Dark mode |
+| :---: | :---: |
+| ![JBL ProScan Card — light mode](assets/light.png) | ![JBL ProScan Card — dark mode](assets/dark.png) |
 
 ## 🎨 Visual Editor
 The card fully supports the Home Assistant visual editor.
