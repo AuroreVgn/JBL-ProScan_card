@@ -112,7 +112,7 @@ Chaque mesure et chaque point du graphique historique reçoivent individuellemen
 
 ## 📸 Aperçus
 
-| Mode clair | Mode sombre |
+| Mode clair | Mode sombre + compacte |
 | :---: | :---: |
 | ![JBL ProScan Card — mode clair](assets/light.png) | ![JBL ProScan Card — mode sombre](assets/dark.png) |
 
