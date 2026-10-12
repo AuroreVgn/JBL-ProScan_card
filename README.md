@@ -114,11 +114,11 @@ Chaque mesure et chaque point du graphique historique reçoivent individuellemen
 
 ### Mode clair
 
-<img width="800" alt="Carte JBL ProScan en mode clair" src="assets/light.png" />
+<img width="400" alt="Carte JBL ProScan en mode clair" src="assets/light.png" />
 
 ### Mode sombre
 
-<img width="800" alt="Carte JBL ProScan en mode sombre" src="assets/dark.png" />
+<img width="400" alt="Carte JBL ProScan en mode sombre" src="assets/dark.png" />
 
 ## 🎨 Éditeur visuel
 
