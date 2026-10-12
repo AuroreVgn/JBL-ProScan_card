@@ -118,10 +118,12 @@ according to the thresholds below.
 ## 📸 Screenshots
 
 ### Light mode
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/d9880589-87c8-4aca-ae74-e8d79fd6799d" />
+
+<img width="800" alt="JBL ProScan Card — light mode" src="assets/light.png" />
 
 ### Dark mode
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/67da56b6-22fc-4fc3-b386-657fd10cfeaa" />
+
+<img width="800" alt="JBL ProScan Card — dark mode" src="assets/dark.png" />
 
 ## 🎨 Visual Editor
 The card fully supports the Home Assistant visual editor.
