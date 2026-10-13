@@ -25,7 +25,7 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
 
 ## ⚠️ Important
 
-# Carte Lovelace JBL ProScan
+# 🐟 Carte Lovelace JBL ProScan
 
 Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 
