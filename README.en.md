@@ -1,3 +1,5 @@
+# 🐠 JBL ProScan Lovelace Card
+
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.3%2B-41BDF5.svg?style=flat-square&logo=homeassistant)](https://www.home-assistant.io/)
@@ -27,7 +29,7 @@ If you find this integration useful and would like to support its development an
 
 ## ⚠️ Important
 
-# 🐟 JBL ProScan Lovelace Card
+
 A modern Lovelace card for the **JBL ProScan** Home Assistant integration.
 
 ➡️ **Integration available here:** https://github.com/AuroreVgn/JBL_ProScan
