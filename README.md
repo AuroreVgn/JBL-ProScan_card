@@ -1,3 +1,5 @@
+# 🐠 Carte Lovelace JBL ProScan
+
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.3%2B-41BDF5.svg?style=flat-square&logo=homeassistant)](https://www.home-assistant.io/)
@@ -25,7 +27,7 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
 
 ## ⚠️ Important
 
-# 🐟 Carte Lovelace JBL ProScan
+
 
 Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 
