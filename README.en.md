@@ -27,7 +27,7 @@ If you find this integration useful and would like to support its development an
 
 ## ⚠️ Important
 
-# JBL ProScan Lovelace Card
+# 🐟 JBL ProScan Lovelace Card
 A modern Lovelace card for the **JBL ProScan** Home Assistant integration.
 
 ➡️ **Integration available here:** https://github.com/AuroreVgn/JBL_ProScan
