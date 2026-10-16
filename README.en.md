@@ -29,17 +29,19 @@ If you find this integration useful and would like to support its development an
 
 ## 📑 Table of contents
 
-- [⚠️ Important](#-important)
-- [✨ Features](#-features)
-- [📦 Installation](#-installation)
-- [⚙️ Configuration](#-configuration)
-- [🎛️ Water quality thresholds](#-water-quality-thresholds)
-- [📸 Previews](#-previews)
-- [🎨 Visual Editor](#-visual-editor)
-- [📈 Interactive Dashboard](#-interactive-dashboard)
-- [⚙️ Customization](#-customization)
-- [🧩 Companion Integration](#-companion-integration)
-- [📄 License](#-license)
+- [⚠️ Important](#toc-section-1)
+- [✨ Features](#toc-section-2)
+- [📦 Installation](#toc-section-3)
+- [⚙️ Configuration](#toc-section-4)
+- [🎛️ Water quality thresholds](#toc-section-5)
+- [📸 Previews](#toc-section-6)
+- [🎨 Visual Editor](#toc-section-7)
+- [📈 Interactive Dashboard](#toc-section-8)
+- [⚙️ Customization](#toc-section-9)
+- [🧩 Companion Integration](#toc-section-10)
+- [📄 License](#toc-section-11)
+
+<a name="toc-section-1"></a>
 
 ## ⚠️ Important
 
@@ -47,6 +49,8 @@ If you find this integration useful and would like to support its development an
 A modern Lovelace card for the **JBL ProScan** Home Assistant integration.
 
 ➡️ **Integration available here:** https://github.com/AuroreVgn/JBL_ProScan
+
+<a name="toc-section-2"></a>
 
 ## ✨ Features
 - 🎨 Mushroom-inspired design
@@ -64,6 +68,8 @@ A modern Lovelace card for the **JBL ProScan** Home Assistant integration.
 - 🎨 Native Home Assistant color picker
 - 🎭 Native Home Assistant icon picker
 - ⚙️ Highly customizable
+
+<a name="toc-section-3"></a>
 
 ## 📦 Installation
 
@@ -98,6 +104,8 @@ HACS
 Restart Home Assistant if requested.
 
 
+<a name="toc-section-4"></a>
+
 ## ⚙️ Configuration
 Minimal configuration:
 
@@ -113,6 +121,8 @@ sensor.bassin_historique
 ```
 with your own sensor.
 
+
+<a name="toc-section-5"></a>
 
 ## 🎛️ Water quality thresholds
 
@@ -132,11 +142,15 @@ according to the thresholds below.
 | **CO₂** | Information only | — | — |
 | **Chlorine** | 0 ≤ Chlorine ≤ 0.8 mg/L | — | Chlorine > 0.8 mg/L |
 
+<a name="toc-section-6"></a>
+
 ## 📸 Previews
 
 | Light mode | Dark and compatct mode|
 | :---: | :---: |
 | ![JBL ProScan Card — light mode](assets/light.png) | ![JBL ProScan Card — dark mode](assets/dark.png) |
+
+<a name="toc-section-7"></a>
 
 ## 🎨 Visual Editor
 The card fully supports the Home Assistant visual editor.
@@ -157,6 +171,8 @@ Available options include:
 No YAML editing required for most users.
 
 
+<a name="toc-section-8"></a>
+
 ## 📈 Interactive Dashboard
 The card provides:
 - 📊 Water quality overview
@@ -171,6 +187,8 @@ The card provides:
 - 📍 JBL recommended ranges
 - 🖱 Rich interactive tooltips
 - 📊 Home Assistant statistics support
+
+<a name="toc-section-9"></a>
 
 ## ⚙️ Customization
 The appearance can be customized directly from the visual editor.
@@ -194,10 +212,14 @@ Customize every icon using the native Home Assistant icon picker:
 - CO₂
 - Chlorine
 
+<a name="toc-section-10"></a>
+
 ## 🧩 Companion Integration
 This card requires the **JBL ProScan** integration.
 ➡️ https://github.com/AuroreVgn/JBL_ProScan
 
+
+<a name="toc-section-11"></a>
 
 ## 📄 License
 Distributed under the MIT License.
