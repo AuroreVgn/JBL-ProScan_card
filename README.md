@@ -27,17 +27,19 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
 
 ## 📑 Sommaire
 
-- [⚠️ Important](#-important)
-- [✨ Fonctionnalités](#-fonctionnalités)
-- [📦 Installation](#-installation)
-- [⚙️ Configuration](#-configuration)
-- [🎛️ Seuils de qualité de l'eau](#-seuils-de-qualité-de-leau)
-- [📸 Aperçus](#-aperçus)
-- [🎨 Éditeur visuel](#-éditeur-visuel)
-- [📈 Tableau de bord interactif](#-tableau-de-bord-interactif)
-- [⚙️ Personnalisation](#-personnalisation)
-- [🧩 Intégration associée](#-intégration-associée)
-- [📄 Licence](#-licence)
+- [⚠️ Important](#toc-section-1)
+- [✨ Fonctionnalités](#toc-section-2)
+- [📦 Installation](#toc-section-3)
+- [⚙️ Configuration](#toc-section-4)
+- [🎛️ Seuils de qualité de l'eau](#toc-section-5)
+- [📸 Aperçus](#toc-section-6)
+- [🎨 Éditeur visuel](#toc-section-7)
+- [📈 Tableau de bord interactif](#toc-section-8)
+- [⚙️ Personnalisation](#toc-section-9)
+- [🧩 Intégration associée](#toc-section-10)
+- [📄 Licence](#toc-section-11)
+
+<a name="toc-section-1"></a>
 
 ## ⚠️ Important
 
@@ -46,6 +48,8 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
 Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 
 ➡️ **Intégration nécessaire :** https://github.com/AuroreVgn/JBL_ProScan
+
+<a name="toc-section-2"></a>
 
 ## ✨ Fonctionnalités
 
@@ -64,6 +68,8 @@ Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 - 🎨 Sélecteur de couleurs natif Home Assistant
 - 🎭 Sélecteur d'icônes natif Home Assistant
 - ⚙️ Personnalisation avancée
+
+<a name="toc-section-3"></a>
 
 ## 📦 Installation
 
@@ -100,6 +106,8 @@ HACS
 
 Redémarrez Home Assistant si nécessaire.
 
+<a name="toc-section-4"></a>
+
 ## ⚙️ Configuration
 
 Configuration minimale :
@@ -110,6 +118,8 @@ entity: sensor.bassin_historique
 ```
 
 Remplacez `sensor.bassin_historique` par l'identifiant de votre capteur historique si celui-ci est différent.
+
+<a name="toc-section-5"></a>
 
 ## 🎛️ Seuils de qualité de l'eau
 
@@ -127,11 +137,15 @@ Chaque mesure et chaque point du graphique historique reçoivent individuellemen
 | **CO₂** | Information uniquement | — | — |
 | **Chlore** | 0 ≤ Chlore ≤ 0,8 mg/L | — | Chlore > 0,8 mg/L |
 
+<a name="toc-section-6"></a>
+
 ## 📸 Aperçus
 
 | Mode clair | Mode compact |
 | :---: | :---: |
 | ![JBL ProScan Card — mode clair](assets/light.png) | ![JBL ProScan Card — mode sombre](assets/dark.png) |
+
+<a name="toc-section-7"></a>
 
 ## 🎨 Éditeur visuel
 
@@ -152,6 +166,8 @@ Options disponibles :
 
 Pour la plupart des utilisateurs, aucune modification YAML n'est nécessaire.
 
+<a name="toc-section-8"></a>
+
 ## 📈 Tableau de bord interactif
 
 La carte propose :
@@ -163,6 +179,8 @@ La carte propose :
 - 📍 Plages recommandées JBL
 - 🖱 Infobulles interactives détaillées
 - 📊 Prise en charge des statistiques Home Assistant
+
+<a name="toc-section-9"></a>
 
 ## ⚙️ Personnalisation
 
@@ -189,11 +207,15 @@ Le sélecteur natif Home Assistant permet de personnaliser les icônes :
 - CO₂
 - Chlore
 
+<a name="toc-section-10"></a>
+
 ## 🧩 Intégration associée
 
 Cette carte nécessite l'intégration **JBL ProScan**.
 
 ➡️ https://github.com/AuroreVgn/JBL_ProScan
+
+<a name="toc-section-11"></a>
 
 ## 📄 Licence
 
