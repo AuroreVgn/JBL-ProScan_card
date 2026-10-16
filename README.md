@@ -25,6 +25,20 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
   </a>
 </p>
 
+## 📑 Sommaire
+
+- [⚠️ Important](#-important)
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [📦 Installation](#-installation)
+- [⚙️ Configuration](#-configuration)
+- [🎛️ Seuils de qualité de l'eau](#-seuils-de-qualité-de-leau)
+- [📸 Aperçus](#-aperçus)
+- [🎨 Éditeur visuel](#-éditeur-visuel)
+- [📈 Tableau de bord interactif](#-tableau-de-bord-interactif)
+- [⚙️ Personnalisation](#-personnalisation)
+- [🧩 Intégration associée](#-intégration-associée)
+- [📄 Licence](#-licence)
+
 ## ⚠️ Important
 
 
