@@ -27,6 +27,20 @@ If you find this integration useful and would like to support its development an
   </a>
 </p>
 
+## 📑 Table of contents
+
+- [⚠️ Important](#-important)
+- [✨ Features](#-features)
+- [📦 Installation](#-installation)
+- [⚙️ Configuration](#-configuration)
+- [🎛️ Water quality thresholds](#-water-quality-thresholds)
+- [📸 Previews](#-previews)
+- [🎨 Visual Editor](#-visual-editor)
+- [📈 Interactive Dashboard](#-interactive-dashboard)
+- [⚙️ Customization](#-customization)
+- [🧩 Companion Integration](#-companion-integration)
+- [📄 License](#-license)
+
 ## ⚠️ Important
 
 
