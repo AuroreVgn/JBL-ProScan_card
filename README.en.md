@@ -73,6 +73,10 @@ A modern Lovelace card for the **JBL ProScan** Home Assistant integration.
 
 ## 📦 Installation
 
+> [!NOTE]
+> **Marketplace / HACS — Home Assistant 2026.11+:** Open **Settings → Marketplace**, built into Home Assistant without a separate HACS installation. Search for this project or add `https://github.com/AuroreVgn/JBL-ProScan_card` as a **custom repository** if it is not yet listed. On **Home Assistant 2026.10 and earlier**, continue using HACS as described below. Existing `hacs_repository` links remain compatible. After installing, add the card to your dashboard. This remains an unofficial community project.
+
+
 ### HACS (recommended)
 
 #### Add to HACS
