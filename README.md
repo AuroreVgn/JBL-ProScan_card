@@ -1,4 +1,9 @@
-# 🐠 Carte Lovelace JBL ProScan
+# 🐠 Carte Lovelace JBL ProScan — dépôt historique
+
+> [!IMPORTANT]
+> **La carte JBL ProScan a été intégrée au code de l'[intégration principale JBL ProScan](https://github.com/AuroreVgn/JBL-ProScan#toc-section-8).** Ce dépôt indépendant reste utilisable tant qu'une nouvelle version de l'intégration incluant la carte n'a pas été publiée et testée.
+>
+> Une fois cette version disponible, installez l'intégration principale, vérifiez la ressource `/jbl_proscan/jbl-proscan-card.js`, puis retirez l'ancienne carte HACS et son ancienne ressource. Conservez vos configurations `type: custom:jbl-proscan-card`. **Ne chargez pas simultanément les deux ressources.**
 
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE)
@@ -47,7 +52,7 @@ Si cette carte vous est utile et que vous souhaitez soutenir son développement 
 
 Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 
-➡️ **Intégration nécessaire :** https://github.com/AuroreVgn/JBL_ProScan
+➡️ **Intégration nécessaire :** https://github.com/AuroreVgn/JBL-ProScan
 
 <a name="toc-section-2"></a>
 
@@ -84,7 +89,7 @@ Une carte Lovelace moderne pour l'intégration Home Assistant **JBL ProScan**.
 
 ##### Automatiquement
 
-[![Ouvrir ce dépôt dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=AuroreVgn&repository=JBL_ProScan_card&category=plugin)
+[![Ouvrir ce dépôt dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=AuroreVgn&repository=JBL-ProScan_card&category=plugin)
 
 ##### Manuellement
 
@@ -95,7 +100,7 @@ HACS
            └── Dépôts personnalisés
 
 Dépôt
-https://github.com/AuroreVgn/JBL_ProScan_card
+https://github.com/AuroreVgn/JBL-ProScan_card
 
 Catégorie
 Dashboard
@@ -218,7 +223,7 @@ Le sélecteur natif Home Assistant permet de personnaliser les icônes :
 
 Cette carte nécessite l'intégration **JBL ProScan**.
 
-➡️ https://github.com/AuroreVgn/JBL_ProScan
+➡️ https://github.com/AuroreVgn/JBL-ProScan
 
 <a name="toc-section-11"></a>
 
@@ -226,6 +231,6 @@ Cette carte nécessite l'intégration **JBL ProScan**.
 
 Distribué sous licence MIT.
 
-[releases-shield]: https://img.shields.io/github/v/release/AuroreVgn/JBL_ProScan_card?style=flat-square
-[releases]: https://github.com/AuroreVgn/JBL_ProScan_card/releases
-[license-shield]: https://img.shields.io/github/license/AuroreVgn/JBL_ProScan_card?style=flat-square
+[releases-shield]: https://img.shields.io/github/v/release/AuroreVgn/JBL-ProScan_card?style=flat-square
+[releases]: https://github.com/AuroreVgn/JBL-ProScan_card/releases
+[license-shield]: https://img.shields.io/github/license/AuroreVgn/JBL-ProScan_card?style=flat-square
