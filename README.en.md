@@ -6,6 +6,10 @@
 >
 > **The integration version containing the bundled card has not been released yet.** Until then, keep your existing standalone card installation.
 
+## 🌍 Other languages
+
+[Français](README.md)
+
 ## Install the card
 
 Once an integration release includes the card, install or update **[AuroreVgn/JBL-ProScan](https://github.com/AuroreVgn/JBL-ProScan)** through HACS / Marketplace or manually, then restart Home Assistant.
