@@ -6,6 +6,10 @@
 >
 > **La version de l'intégration incluant la carte n'est pas encore publiée.** En attendant, conservez votre installation actuelle de la carte indépendante.
 
+## 🌍 Autres langues
+
+[English](README.en.md)
+
 ## Installer la carte
 
 Dès qu'une version de l'intégration incluant la carte sera publiée, installez ou mettez à jour **[AuroreVgn/JBL-ProScan](https://github.com/AuroreVgn/JBL-ProScan)** via HACS / Marketplace ou manuellement, puis redémarrez Home Assistant.
@@ -45,5 +49,6 @@ Ne chargez pas simultanément les anciennes et nouvelles ressources : elles déc
 - [Instructions de migration](https://github.com/AuroreVgn/JBL-ProScan#toc-section-8)
 - [Signaler un problème](https://github.com/AuroreVgn/JBL-ProScan/issues)
 - [Captures d'écran historiques](assets/)
+- [English version](README.en.md)
 
 Merci aux utilisateurs et contributeurs de JBL ProScan Card !
